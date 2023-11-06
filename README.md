@@ -6,7 +6,11 @@ _Prompting the Future_
 
 ## Summary
 
-A visionary leader and content strategist with over two decades of pioneering experience in content creation, community building, and technology solutions. Currently leading Cretorial Media Services with a focus on leveraging AI for generative writing in various sectors including Edtech, policy documentation, creative writing, engagement marketing, and digital advertising. With an award-winning history at companies like Adobe and Cadence Design Systems, I have a proven track record of developing content and community operations that resonate with hundreds of millions of users globally. Recognized for integrating content strategies across the software development lifecycle, and for leading teams that revolutionize user engagement, conversion, and retention. An influencer with over 650K followers on Instagram, I bring a unique blend of computer engineering, humanities, and management acumen to drive innovation in technology and content.
+A visionary leader 🧭 and content strategist 📊 with over two decades of pioneering experience in content creation 🖋, community building 🌱, and technology solutions 💡. Currently leading Cretorial Media Services 🏢 with a focus on leveraging AI for generative writing in various sectors including Edtech 🎓, policy documentation 📃, creative writing ✍️, engagement marketing 📣, and digital advertising 🛍️. 
+
+With an award-winning 🏆 history at companies like Adobe and Cadence Design Systems, I have a proven track record of developing content and community operations that resonate with hundreds of millions of users globally 🌍. Recognized for integrating content strategies across the software development lifecycle 💻, and for leading teams that revolutionize user engagement 👥, conversion 🔄, and retention 🤝. 
+
+An influencer with over 650K followers on Instagram 📸, I bring a unique blend of computer science 🖥️, humanities 📘, and management acumen 📈 to drive innovation in technology and content.
 
 <br>
 

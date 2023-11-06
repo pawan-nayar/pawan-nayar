@@ -1,16 +1,8 @@
 # Pawan Nayar
 
-<pnayar@cretorial.com>
+_Prompting the Future_
 
-![Envelope](media/image2.png){width="25"} 
 
-+91 98719XXXXX
-
-![Smart Phone with solid fill](media/image4.png){width="25"}
-
-![Female Profile with solid fill](media/image6.png){width="25"}
-
-[![LinkedIn](media/linkedin-icon.png){width="25"}](https://www.linkedin.com/in/pawannayar/)
 
 ---
 
@@ -18,21 +10,19 @@
 
 A visionary leader and content strategist with over two decades of pioneering experience in content creation, community building, and technology solutions. Currently leading Cretorial Media Services with a focus on leveraging AI for generative writing in various sectors including Edtech, policy documentation, creative writing, engagement marketing, and digital advertising. With an award-winning history at companies like Adobe and Cadence Design Systems, I have a proven track record of developing content and community operations that resonate with hundreds of millions of users globally. Recognized for integrating content strategies across the software development lifecycle, and for leading teams that revolutionize user engagement, conversion, and retention. An influencer with over 650K followers on Instagram, I bring a unique blend of computer engineering, humanities, and management acumen to drive innovation in technology and content.
 
-## Generative Writing and Art Case Studies
+
+## Generative Writing and Art Case Studies 
 
 Check the power of generative writing in a range of applications. [And this is just 5% sample of what I have explored.]
 
-- **Generative Writing and Art: Democratizing Learning for All** - In "Generative Writing and Edtech," I detail how my strategic implementation of generative writing and art is revolutionizing EdTech. I emphasize innovative content creation, which can be used as a model to propel any enterprise training into new realms of efficiency, offering scalable, engaging learning experiences with AI-synthesized educational content. [Link - Edtech Generative Writing.pdf]
-
-- **Revolutionizing Brand Narratives: LLMs at the Intersection of Art and Commerce** - "From Limitations to Innovation" unfolds the synergy between LLMs and enterprise-scale branding, showcasing the strategic development from setting brand standards to devising custom AI solutions. This guide covers training, prompt engineering, and transformative workflows, with practical examples of AI's role in refining and advancing generative writing and art in branding. [Link - Generative Writing for Enterprise Next Use Cases.pdf]
-
-- **Netflix-ready Novels of the future written with Generative Writing** - "Secrets of the Buried Self" is an immersive odyssey where my creative vision fuses with AI's analytical might, championing generative writing and art. This I+AI storytelling journey weaves a narrative tapestry that defies the ages, inviting readers into a pioneering experience of co-creation between the intuitive human spirit and the computational depths of artificial intelligence. [Link - Preface of Secrets of the Buried Self.pdf]
-
-- **Ultimate Midjourney Manual** - The Ultimate Midjourney Manual is a tour-de-force for AI-assisted creativity, offering an expansive original framework across 60,000 words and 1,500+ prompts. It steers users from novices to maestros in AI artistry, providing a treasure trove of knowledge for integrating Midjourney into diverse professional landscapes, supported by an extensive FAQ for effortless mastery. See abridged content here, a detailed website coming soon with entire content. [Link - The Ultimate MidJourney Manual Sample.pdf] 
-
-- **Word And Phrases: Where Every Word Becomes A Book** - Immerse yourself in a visionary Generative writing-crafted portal where language transcends its traditional bounds---every word unfolds into a narrative, responding to 99% of reference queries across academia, professions, and the arts. This all-encompassing realm redefines language exploration, blending dictionary precision with creative verve, offering a panoramic view of verbal artistry. It's an invitation to witness a linguistic evolution, a leap into how we absorb and revere the written word, poised to reshape our interaction with text. Embrace this transformative journey into the essence of expression. [Link -> WordNPhrases Aug 2023.pdf]
-
-- **Redefining Design Briefs Using Generative Writing** - This guide provides design directives for visual designers in collaboration with top-tier creative agencies for a Fortune 500 company, a creative powerhouse needing vast volumes of visual templates. Focused on Asian themes, we utilized generative AI (Claude, ChatGPT) and SGE (Bard, Perplexity) to craft 17 prompt templates, yielding 120 detailed briefs. The forthcoming phase aims to scale this success by tenfold. [Link - Example brief -> Diwali Design Guidelines.pdf]
+| **Application** | **Description** |
+|-|-|
+| **Generative Writing and Art: Democratizing Learning for All** | In "Generative Writing and Edtech," I detail how my strategic implementation of generative writing and art is revolutionizing EdTech. I emphasize innovative content creation, which can be used as a model to propel any enterprise training into new realms of efficiency, offering scalable, engaging learning experiences with AI-synthesized educational content. [Link - Edtech Generative Writing.pdf] |
+| **Revolutionizing Brand Narratives: LLMs at the Intersection of Art and Commerce** | "From Limitations to Innovation" unfolds the synergy between LLMs and enterprise-scale branding, showcasing the strategic development from setting brand standards to devising custom AI solutions. This guide covers training, prompt engineering, and transformative workflows, with practical examples of AI's role in refining and advancing generative writing and art in branding. [Link - Generative Writing for Enterprise Next Use Cases.pdf] |
+| **Netflix-ready Novels of the future written with Generative Writing** | "Secrets of the Buried Self" is an immersive odyssey where my creative vision fuses with AI's analytical might, championing generative writing and art. This I+AI storytelling journey weaves a narrative tapestry that defies the ages, inviting readers into a pioneering experience of co-creation between the intuitive human spirit and the computational depths of artificial intelligence. [Link - Preface of Secrets of the Buried Self.pdf] |
+| **Ultimate Midjourney Manual** | The Ultimate Midjourney Manual is a tour-de-force for AI-assisted creativity, offering an expansive original framework across 60,000 words and 1,500+ prompts. It steers users from novices to maestros in AI artistry, providing a treasure trove of knowledge for integrating Midjourney into diverse professional landscapes, supported by an extensive FAQ for effortless mastery. See abridged content here, a detailed website coming soon with entire content. [Link - The Ultimate MidJourney Manual Sample.pdf] |
+| **Word And Phrases: Where Every Word Becomes A Book** | Immerse yourself in a visionary Generative writing-crafted portal where language transcends its traditional bounds---every word unfolds into a narrative, responding to 99% of reference queries across academia, professions, and the arts. This all-encompassing realm redefines language exploration, blending dictionary precision with creative verve, offering a panoramic view of verbal artistry. It's an invitation to witness a linguistic evolution, a leap into how we absorb and revere the written word, poised to reshape our interaction with text. Embrace this transformative journey into the essence of expression. [Link -> WordNPhrases Aug 2023.pdf] |
+| **Redefining Design Briefs Using Generative Writing** | This guide provides design directives for visual designers in collaboration with top-tier creative agencies for a Fortune 500 company, a creative powerhouse needing vast volumes of visual templates. Focused on Asian themes, we utilized generative AI (Claude, ChatGPT) and SGE (Bard, Perplexity) to craft 17 prompt templates, yielding 120 detailed briefs. The forthcoming phase aims to scale this success by tenfold. [Link - Example brief -> Diwali Design Guidelines.pdf] |
 
 ## Competencies and Thought Leadership
 

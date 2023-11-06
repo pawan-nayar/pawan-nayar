@@ -3,9 +3,6 @@
 _Prompting the Future_
 
 
-[![Email Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawannayar/)](https://www.linkedin.com/in/pawannayar/)
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawannayar/)](https://www.linkedin.com/in/pawannayar/)
-
 
 ## Summary
 

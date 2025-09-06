@@ -57,55 +57,56 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 
 * **Interactive Chapter Tool – The Last Lesson:** Deep-dive into a single chapter with RTC, bilingual narration, and glossary cards.<br/>[*Live Demo ➔*](https://www.beyonddictionary.com/cbse/12/flamingo/the-last-lesson) 
 
-* **Interactive Commerce Glossary:** A learning tool for core business and commerce principles. <br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/commerce-class-12-laws-glossary.html)
+* **Interactive Commerce Glossary:** A learning tool for core business and commerce principles. <br/>[*Live Demo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/commerce-class-12-laws-glossary.html)
 
-* **DeepThink Reasoning Engine:** 20-scenario reasoning engine for CBSE Business Studies. <br/>[*Live Demo ➔*](#) | [*Repository ➔*]([https://github.com/pawan-nayar/deepthink-reasoning-engine](https://pawan-nayar.github.io/beyond-dictionary/deepthink-reasoning-engine-business-studies-class11-12.html)
+* **DeepThink Reasoning Engine:** 20-scenario reasoning engine for CBSE Business Studies. <br/>[*Live Demo ➔*](https://github.com/pawan-nayar/deepthink-reasoning-engine)
 
-* **Algorithm & Pseudocode Explorer:** Interactive tool for Computer Science problem-solving concepts.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/algorithm-pseudocode-explorer)
+* **Algorithm & Pseudocode Explorer:** Interactive tool for Computer Science problem-solving concepts.<br/>[*Live Demo ➔*](https://github.com/pawan-nayar/algorithm-pseudocode-explorer)
 
 #### 📈 B. Marketing – Expression, SEO, & Creativity
 
-* **FindYourExpression™ Engine:** Prototype of the micro-content generator for short expressions.<br/>[*Live Demo ➔*](Coming Soon) | [*Case Study Repo ➔*](Coming Soo)n. Contact for a demo.)
+* **FindYourExpression™ Engine:** Prototype of the micro-content generator for short expressions.<br/>[*Live Demo ➔*](Coming Soon) 
 
-* **Fashion Text Stock Generator:** Caption and text-stock generator driven by fashion and emoji semantics.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/fashion-text-stock-generator)
+* **Fashion Word Explorer:** Explore the language of fashion. Hover over the silhouette to understand fashion and emoji semantics.<br/>
+[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/fashion-word-explorer.html) &nbsp; [*Repository ➔*](https://github.com/pawan-nayar/expression-and-creativity/blob/main/fashion-word-explorer.html)
 
-* **Kids Visual Dictionary:** Multimodal, multilingual, interactive experience for early learners (Ages 2-5).<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/kids-visual-dictionary)
+* **Kids Visual Dictionary:** Multimodal, multilingual, interactive experience for early learners (Ages 2-5).<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Interactive Article – Money Talks:** Deep-dive on global proverbs with interactive quizzes, polls, and carousels.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/interactive-article-money-talks)
+* **Interactive Article – Money Talks:** Deep-dive on global proverbs with interactive quizzes, polls, and carousels.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Interactive Article – Food & Culture:** Exploration of food history and sensory storytelling.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/interactive-article-food-culture)
+* **Interactive Article – Food & Culture:** Exploration of food history and sensory storytelling.<br/>[*Live Demo ➔*](Coming Soon)
 
 #### 🎮 C. Experience – Games, Interactivity, & Play
 
-* **Dynamic Crossword Engine:** Multi-subject crossword engine with dynamic clue previews.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/dynamic-crossword-engine)
+* **Dynamic Crossword Engine:** Multi-subject crossword engine with dynamic clue previews.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Lightweight Quiz Prototype:** A mobile-first quiz interface with multiple interaction types.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/lightweight-quiz-prototype)
+* **Lightweight Quiz Prototype:** A mobile-first quiz interface with multiple interaction types.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **BODMAS Animated Trainer:** Visual math trainer with bilingual narration and multiple solution paths.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/bodmas-animated-trainer)
+* **BODMAS Animated Trainer:** Visual math trainer with bilingual narration and multiple solution paths.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Little Math Explorer (Ages 4-7):** Story-driven math learning with animations and guided steps.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/little-math-explorer)
+* **Little Math Explorer (Ages 4-7):** Story-driven math learning with animations and guided steps.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Coordinate Geometry Explainer:** Interactive plotting canvas with glossary and bilingual toggle.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/coordinate-geometry-explainer)
+* **Coordinate Geometry Explainer:** Interactive plotting canvas with glossary and bilingual toggle.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Toddler Counting Simulator (Ages 3-5):** Virtual counting tool with ten-frame and place-value play.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/toddler-counting-simulator)
+* **Toddler Counting Simulator (Ages 3-5):** Virtual counting tool with ten-frame and place-value play.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Emoji Jumble Game:** Emoji-based puzzle game blending wordplay and visuals.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/emoji-jumble-game)
+* **Emoji Jumble Game:** Emoji-based puzzle game blending wordplay and visuals.<br/>[*Live Demo ➔*](Coming Soon)
+* 
+* **Brilliant Bowl (Synonyms & Antonyms):** Immersive “fill & drain” game exploring word meaning.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Brilliant Bowl (Synonyms & Antonyms):** Immersive “fill & drain” game exploring word meaning.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/brilliant-bowl-game)
+* **Crakk Misspelling Explorer:** Interactive spelling-error trainer and learning game.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Crakk Misspelling Explorer:** Interactive spelling-error trainer and learning game.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/crakk-misspelling-explorer)
-
-* **Interactive Piano Simulator:** Playable JS-based piano for music and creativity learning.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/interactive-piano-simulator)
+* **Interactive Piano Simulator:** Playable JS-based piano for music and creativity learning.<br/>[*Live Demo ➔*](Coming Soon)
 
 #### 💻 D. Technology – AI, APIs, & Infrastructure
 
-* **Word Relationship Galaxy:** D3.js visualization of synonyms, antonyms, hashtags, and emojis.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/word-relationship-galaxy)
+* **Word Relationship Galaxy:** D3.js visualization of synonyms, antonyms, hashtags, and emojis.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **Salesforce API Explorer:** Hands-on simulation of GET/POST/PATCH/DELETE workflows.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/salesforce-api-explorer)
+* **Salesforce API Explorer:** Hands-on simulation of GET/POST/PATCH/DELETE workflows.<br/>
 
-* **Claude Console Interactive:** Workbench-style interactive console for AI model interaction.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/claude-console-interactive)
+* **Claude Console Interactive:** Workbench-style interactive console for AI model interaction.<br/>[*Live Demo ➔*](Coming Soon)
 
-* **AI in Medicine Clinical Workbench:** Interactive demo of LLM-assisted clinical workflows.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/ai-medicine-workbench)
+* **AI in Medicine Clinical Workbench:** Interactive demo of LLM-assisted clinical workflows.<br/>
 
 ---
 
@@ -114,16 +115,16 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 * **Ultimate Midjourney for Creative Professionals** (Orange Education, 2025)
 
     > A richly illustrated guide to AI-powered visual storytelling with 700+ images and 55+ projects.
-    > <br>[*See on Amazon ➔*](#)
+    > <br>[*See on Amazon ➔*](https://www.amazon.in/Ultimate-Midjourney-Creative-Professionals-Storytelling/dp/9348107046)
 
 * **Secrets of the Buried Self: Echoes Across Time** (2023)
 
     > A novel blending 3,100 years of mystery with AI-assisted narrative design.
-    > <br>[*See on Amazon ➔*](#)
+    > <br>[*See on Amazon ➔*](Secrets of the Buried Self: Echoes Across Time)
 
-* **IEEE / STC Publications** (2001)
+* **IEEE / STC Publications** 
 
-    > Improving Software Documentation Using Instructional Design.
+    > Improving Software Documentation Using Instructional Design. Available on request.
 
 ---
 
@@ -133,9 +134,9 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 
 * **FindYourExpression™:** A universal short-expression engine (idioms, proverbs, slogans, quotes, captions).
 
-* **Wisdom Graph:** A semantic-emotional lattice connecting 5M+ words across 20+ dimensions.
+* **Wisdom Graph:** A semantic-emotional lattice connecting 5M+ words across 20+ dimensions, 50+ JSON datasets (~5GB) and growug.
 
-* **LLOS.AI (2026):** The Lifelong Learning Operating System, integrating all proprietary systems.
+* **LLOS.AI (2026):** The Lifelong Learning Operating System, integrating all proprietary systems, ready for a billion quizzes, a million learning path.
 
 ---
 
@@ -143,6 +144,8 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 
 * **AI-First Content Systems:** Architecting prompt systems, knowledge graphs, and editorial pipelines.
 
-* **Generative Creativity Workshops:** Leading training on storytelling with Midjourney + GPT, including team playbooks.
+* **Content reengineerng at scale:** Leapfrogging content, experience, marketing teams, and ad agencies into hyperscale content world.
+
+* * **Generative Creativity Workshops:** Leading training on storytelling with Midjourney + GPT, including team playbooks for different professions and cross-geo/cross-BU/cross-industry business needs.
 
 * **Learning Gamification:** Actively developing and prototyping novel quiz/game mechanics for knowledge recall and user engagement.

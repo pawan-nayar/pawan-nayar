@@ -49,23 +49,23 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 
 #### 🧠 A. Content – Words, Knowledge, & Learning Systems
 
-* **BeyondDictionary – Advanced Word Cards:** 400k+ English/Hindi entries with 100+ micro-services per word. <br/>[*Live Site ➔*](https://beyonddictionary.com/dictionary/advance/Standard) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/case-study-beyond-dictionary)
+* **BeyondDictionary – Advanced Word Cards:** 400k+ English/Hindi entries with 100+ micro-services per word. <br/>[*Live Site ➔*](https://beyonddictionary.com/dictionary/advance/Standard) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/beyond-dictionary-case-study.md)
 
-* **BeyondDictionary – Quiz Engine:** Prototype for a platform scaling to 10M+ interactive questions. <br/>[*Live Demo ➔*](https://beyonddictionary.com/cbsequiz) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/case-study-quiz-engine)
+* **BeyondDictionary – Quiz Engine:** Prototype for a platform scaling to 10M+ interactive questions. <br/>[*Live Demo ➔*](https://beyonddictionary.com/cbsequiz) | [*Case Study Repo ➔*](Coming Soon)
 
-* **CBSE English Learning Universe:** A large-scale application of multimodal, bilingual learning principles. <br/>[*Live Site ➔*](https://beyonddictionary.com/cbse) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/case-study-cbse-universe)
+* **CBSE English Learning Universe:** A large-scale application of multimodal, bilingual learning principles. <br/>[*Live Site ➔*](https://beyonddictionary.com/cbse) | [*Case Study Repo ➔*](Coming Soon)
 
-* **Interactive Chapter Tool – The Last Lesson:** Deep-dive into a single chapter with RTC, bilingual narration, and glossary cards.<br/>[*Live Demo ➔*](https://www.beyonddictionary.com/cbse/12/flamingo/the-last-lesson) | [*Repository ➔*](https://github.com/pawan-nayar/interactive-chapter-last-lesson)
+* **Interactive Chapter Tool – The Last Lesson:** Deep-dive into a single chapter with RTC, bilingual narration, and glossary cards.<br/>[*Live Demo ➔*](https://www.beyonddictionary.com/cbse/12/flamingo/the-last-lesson) 
 
-* **Interactive Commerce Glossary:** A learning tool for core business and commerce principles. <br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/interactive-commerce-glossary)
+* **Interactive Commerce Glossary:** A learning tool for core business and commerce principles. <br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/commerce-class-12-laws-glossary.html)
 
-* **DeepThink Reasoning Engine:** 20-scenario reasoning engine for CBSE Business Studies. <br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/deepthink-reasoning-engine)
+* **DeepThink Reasoning Engine:** 20-scenario reasoning engine for CBSE Business Studies. <br/>[*Live Demo ➔*](#) | [*Repository ➔*]([https://github.com/pawan-nayar/deepthink-reasoning-engine](https://pawan-nayar.github.io/beyond-dictionary/deepthink-reasoning-engine-business-studies-class11-12.html)
 
 * **Algorithm & Pseudocode Explorer:** Interactive tool for Computer Science problem-solving concepts.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/algorithm-pseudocode-explorer)
 
 #### 📈 B. Marketing – Expression, SEO, & Creativity
 
-* **FindYourExpression™ Engine:** Prototype of the micro-content generator for short expressions.<br/>[*Live Demo ➔*](https://findyourexpression.beyonddictionary.com/) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/case-study-findyourexpression)
+* **FindYourExpression™ Engine:** Prototype of the micro-content generator for short expressions.<br/>[*Live Demo ➔*](Coming Soon) | [*Case Study Repo ➔*](Coming Soo)n. Contact for a demo.)
 
 * **Fashion Text Stock Generator:** Caption and text-stock generator driven by fashion and emoji semantics.<br/>[*Live Demo ➔*](#) | [*Repository ➔*](https://github.com/pawan-nayar/fashion-text-stock-generator)
 

@@ -91,7 +91,7 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 * **Toddler Counting Simulator (Ages 3-5):** Virtual counting tool with ten-frame and place-value play.<br/>[*Live Demo ➔*](Coming Soon)
 
 * **Emoji Jumble Game:** Emoji-based puzzle game blending wordplay and visuals.<br/>[*Live Demo ➔*](Coming Soon)
-* 
+  
 * **Brilliant Bowl (Synonyms & Antonyms):** Immersive “fill & drain” game exploring word meaning.<br/>[*Live Demo ➔*](Coming Soon)
 
 * **Crakk Misspelling Explorer:** Interactive spelling-error trainer and learning game.<br/>[*Live Demo ➔*](Coming Soon)

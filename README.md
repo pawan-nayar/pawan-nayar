@@ -51,17 +51,17 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 
 * **BeyondDictionary – Advanced Word Cards:** 400k+ English/Hindi entries with 100+ micro-services per word. <br/>[*Live Site ➔*](https://beyonddictionary.com/dictionary/advance/Standard) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/beyond-dictionary-case-study.md)
 
-* **BeyondDictionary – Quiz Engine:** Prototype for a platform scaling to 10M+ interactive questions. <br/>[*Live Demo ➔*](https://beyonddictionary.com/cbsequiz) | [*Case Study Repo ➔*](Coming Soon)
+* **BeyondDictionary – Quiz Engine:** Prototype for a platform scaling to 10M+ interactive questions. <br/>[*Live Demo ➔*](https://beyonddictionary.com/cbsequiz) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/beyond_dictionary_quiz_learn_apply_framework.md)
 
-* **CBSE English Learning Universe:** A large-scale application of multimodal, bilingual learning principles. <br/>[*Live Site ➔*](https://beyonddictionary.com/cbse) | [*Case Study Repo ➔*](Coming Soon)
+* **CBSE English Learning Universe:** A large-scale application of multimodal, bilingual learning principles. <br/>[*Live Site ➔*](https://beyonddictionary.com/cbse) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/cbse_case_study.md)
 
 * **Interactive Chapter Tool – The Last Lesson:** Deep-dive into a single chapter with RTC, bilingual narration, and glossary cards.<br/>[*Live Demo ➔*](https://www.beyonddictionary.com/cbse/12/flamingo/the-last-lesson) 
 
-* **Interactive Commerce Glossary:** A learning tool for core business and commerce principles. <br/>[*Live Demo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/commerce-class-12-laws-glossary.html)
+* **Interactive Commerce Glossary:** A learning tool for core business and commerce principles. <br/>[*Live Demo ➔*](https://pawan-nayar.github.io/beyond-dictionary/commerce-class-12-laws-glossary.html) | [*HTML ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/commerce-class-12-laws-glossary.html)
 
-* **DeepThink Reasoning Engine:** 20-scenario reasoning engine for CBSE Business Studies. <br/>[*Live Demo ➔*](https://github.com/pawan-nayar/deepthink-reasoning-engine)
-
-* **Algorithm & Pseudocode Explorer:** Interactive tool for Computer Science problem-solving concepts.<br/>[*Live Demo ➔*](https://github.com/pawan-nayar/algorithm-pseudocode-explorer)
+* **DeepThink Reasoning Engine:** 20-scenario reasoning engine for CBSE Business Studies. <br/>[*Live Demo ➔*](https://pawan-nayar.github.io/beyond-dictionary/deepthink-reasoning-engine-business-studies-class11-12.html)
+  
+* **Algorithm & Pseudocode Explorer:** Interactive tool for Computer Science problem-solving concepts.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/beyond-dictionary/algorithm-pseudocode-explorer.html)
 
 #### 📈 B. Marketing – Expression, SEO, & Creativity
 

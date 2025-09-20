@@ -68,13 +68,17 @@ My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arke
 * **FindYourExpression™ Engine:** Prototype of the micro-content generator for short expressions.<br/>[*Live Demo ➔*](Coming Soon) 
 
 * **Fashion Word Explorer:** Explore the language of fashion. Hover over the silhouette to understand fashion and emoji semantics.<br/>
-[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/fashion-word-explorer.html) &nbsp; [*Repository ➔*](https://github.com/pawan-nayar/expression-and-creativity/blob/main/fashion-word-explorer.html)
+[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/fashion-word-explorer.html) 
 
-* **Kids Visual Dictionary:** Multimodal, multilingual, interactive experience for early learners (Ages 2-5).<br/>[*Live Demo ➔*](Coming Soon)
+* **Kids Visual Dictionary:** Multimodal, multilingual, interactive experience for early learners (Ages 2-5).<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/kids_dictionary_animal_words.html) 
 
-* **Interactive Article – Money Talks:** Deep-dive on global proverbs with interactive quizzes, polls, and carousels.<br/>[*Live Demo ➔*](Coming Soon)
+* **Interactive Article – Money Talks:** Deep-dive on global proverbs with interactive quizzes, polls, and carousels.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/proverb_article_money_talks.html) 
 
-* **Interactive Article – Food & Culture:** Exploration of food history and sensory storytelling.<br/>[*Live Demo ➔*](Coming Soon)
+* **Interactive Article – Food & Culture:** Exploration of food history and sensory storytelling.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/article_food_croissant.html) 
+
+* **Reflective Article – SEO & Strategy:** Reframing optimization through layered, reflective thinking.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/deepthink_for_seo.html)  
+
+* **Management Article – Courage in Decision Making:** Part of the 500 Series, showing how bravery and responsibility drive authentic leadership.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/deep_concept_for_management_courage_in_decision_making.html)  
 
 #### 🎮 C. Experience – Games, Interactivity, & Play
 

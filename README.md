@@ -17,11 +17,11 @@ I’m a content engineer with over 30 years of experience building systems that 
 
 ### 💼 Career Highlights & Foundation
 
-* **Cretorial Media Services (2020–Present):** Founder & Chief Thought Officer. Building **BeyondDictionary** (400k+ word pages, 125+ micro-services, 12M+ interactive questions). Author of *Ultimate Midjourney for Creative Professionals* (2025). Research lead on **FindYourExpression™**, **Wisdom Graph**, and **LLOS.AI**.
+* **Cretorial Media Services (2020–Present):** Founder & Chief Thought Officer. Building **BeyondDictionary** (1.42m+ word pages, 125+ micro-services, 8M+ interactive questions). Author of *Ultimate Midjourney for Creative Professionals* (2025). Research lead on **FindYourExpression™**, **Wisdom Graph**, and **LLOS.AI**.
 
-* **Adobe (2008–2020):** Scaled content and community operations from 2 to 50+ members, localized into 35+ languages, and architected ML-driven workflows that saved **$14M annually**. Awarded the **Adobe Founders Award** for global impact.
+* **Adobe (2008–2020):** Scaled content and community operations from 2 to 60+ members, localized into 35+ languages, and architected ML-driven workflows that saved **$14M annually**, and revolutionized onprem software content delivery in cloud-first world. Awarded the **Adobe Founders Award** (1-1000 employees) for global impact.
 
-* **Cadence (1999–2008):** Created the EDA industry’s first cross-BU tutorial systems, cutting support calls by **17%**. Recognized with the **Cadence Chairman’s Club Award**.
+* **Cadence (1999–2008):** Created the EDA industry’s first cross-BU tutorial systems, cutting support calls by **27%**, and tech-support readiness by **71%**. Recognized with the **Cadence Chairman’s Club Award** (1-800 employees).
 
 * **Microsoft (via NIIT, 1995–1999):** Led instructional design for Microsoft CBTs from Windows 95 to Windows 2000. Co-authored landmark IEEE/STC papers.
 

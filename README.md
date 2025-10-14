@@ -121,7 +121,6 @@ My work follows the **CMET** framework: a weave where **C**ontent, **M**arketing
 * **Interactive Article – Food & Culture:** [Live ➔](https://pawan-nayar.github.io/expression-and-creativity/article_food_croissant.html)
 * **Reflective Article – SEO & Strategy:** [Live ➔](https://pawan-nayar.github.io/expression-and-creativity/deepthink_for_seo.html)
 * **Courage in Decision Making:** [Live ➔](https://pawan-nayar.github.io/expression-and-creativity/deep_concept_for_management_courage_in_decision_making.html)
-* **DeepThink for Creative Strategy:** [Live ➔](https://pawan-nayar.github.io/expression-and-creativity/deepthink_for_creative_strategy.html)
 
 ### 🎮 C. Experience – Games, Interactivity, & Play
 
@@ -133,9 +132,9 @@ My work follows the **CMET** framework: a weave where **C**ontent, **M**arketing
 * **Crakk Misspelling Explorer:** [Live ➔](https://pawan-nayar.github.io/experience-playground/crakk_misspelling.html)
 * **Interactive Piano Simulator:** [Live ➔](https://pawan-nayar.github.io/experience-playground/piano_simulator.html)
 * **Dynamic Crossword Engine:** [Live ➔](https://pawan-nayar.github.io/experience-playground/beyond_dictionary_crossword.html)
-* **Newton’s Laws Free Body Calculator:** [Live ➔](https://pawan-nayar.github.io/experience-playground/newtons_laws_force_calculator.html)
-* **Polysemous Words Explorer:** [Live ➔](https://pawan-nayar.github.io/experience-playground/polysemous_words_explorer.html)
-* **Foreground–Background UI Trainer:** [Live ➔](https://pawan-nayar.github.io/experience-playground/foreground_background_contrast_trainer.html)
+* **Newton’s Laws Free Body Calculator:** [Live ➔](https://pawan-nayar.github.io/experience-playground/calculator_physics__newton_laws_free_body_calculator.html)
+* **Polysemous Words Explorer:** [Live ➔]([https://pawan-nayar.github.io/experience-playground/polysemous_words_explorer.html](https://pawan-nayar.github.io/experience-playground/polysemous_words.html))
+* **Foreground–Background UI Trainer:** [Live ➔](https://pawan-nayar.github.io/experience-playground/designer_foreground_background_ui_color_trainer.html)
 
 ---
 

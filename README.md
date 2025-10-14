@@ -17,140 +17,168 @@ I’m a content engineer with over 30 years of experience building systems that 
 
 ### 💼 Career Highlights & Foundation
 
-* **Cretorial Media Services (2020–Present):** Founder & Chief Thought Officer. Building **BeyondDictionary** (1.42m+ word pages, 125+ micro-services, 8M+ interactive questions). Author of *Ultimate Midjourney for Creative Professionals* (2025). Research lead on **FindYourExpression™**, **Wisdom Graph**, and **LLOS.AI**.
-
-* **Adobe (2008–2020):** Scaled content and community operations from 2 to 60+ members, localized into 35+ languages, and architected ML-driven workflows that saved **$14M annually**, and revolutionized onprem software content delivery in cloud-first world. Awarded the **Adobe Founders Award** (1-1000 employees) for global impact.
-
-* **Cadence (1999–2008):** Created the EDA industry’s first cross-BU tutorial systems, cutting support calls by **27%**, and tech-support readiness by **71%**. Recognized with the **Cadence Chairman’s Club Award** (1-800 employees).
-
-* **Microsoft (via NIIT, 1995–1999):** Led instructional design for Microsoft CBTs from Windows 95 to Windows 2000. Co-authored landmark IEEE/STC papers.
+* **Cretorial Media Services (2020–Present):** Founder & Chief Thought Officer. Building **BeyondDictionary** (1.42m+ word pages, 125+ micro-services, 8M+ interactive questions). Author of *Ultimate Midjourney for Creative Professionals* (2025). Research lead on **FindYourExpression™**, **Go2Words™**, **Wisdom Graph**, and **LLOS.AI**.
+* **Adobe (2008–2020):** Scaled content and community operations from 2 to 60+ members, localized into 35+ languages, and architected ML-driven workflows that saved **$14M annually**. Awarded the **Adobe Founders Award** for global impact.
+* **Cadence (1999–2008):** Built the EDA industry’s first cross-BU tutorial systems, cutting support calls by **27%** and improving readiness by **71%**. Received the **Cadence Chairman’s Club Award**.
+* **Microsoft (via NIIT, 1995–1999):** Led instructional design for Microsoft CBTs (Windows 95–2000). Co-authored landmark IEEE/STC papers.
 
 ---
 
 ### ✨ CMET — My Core Philosophy
 
-My work is guided by the **CMET** framework: a mesh where **C**ontent, **M**arketing, **E**xperience, and **T**echnology are not silos, but a unified system where each side fuels the other.
+My work follows the **CMET** framework: a weave where **C**ontent, **M**arketing, **E**xperience, and **T**echnology form one living system.
 
-| Combination | Result |
-| :--- | :--- |
-| `Content + Tech` | How knowledge reaches at scale |
-| `Content + Marketing` | Telling the right story at the right time |
-| `Content + Experience` | Making ideas simple enough for a 5-year-old, rich enough for a researcher |
-| `Marketing + Experience` | Making people feel heard, not sold to |
-| `Experience + Tech` | Showing up everywhere people are — phone, web, and voice |
+| Combination              | Result                                                                                            |
+| :----------------------- | :------------------------------------------------------------------------------------------------ |
+| `Content + Tech`         | How knowledge reaches at scale — e.g. BeyondDictionary, Software Demos                            |
+| `Content + Marketing`    | Telling the right story at the right time — e.g. FindYourExpression™, SEO Reflection              |
+| `Content + Experience`   | Making ideas simple for a 5-year-old yet rich for a researcher — e.g. Early Education Microsystem |
+| `Marketing + Experience` | Making people feel heard, not sold to — e.g. Money Talks Interactive Article                      |
+| `Experience + Tech`      | Showing up everywhere — phone, web, voice — e.g. Salesforce API Explorer                          |
 
 > This is the weave behind everything I build — BeyondDictionary, FindYourExpression™, and the Wisdom Graph.
 
 ---
 
-### 📂 Showcase Projects: Evidence of the Vision in Action
+## 🧭 Software Content Demos — The Operating System for Learning Content
 
-*A portfolio of 25+ interactive prototypes and case studies demonstrating the CMET vision. Core IP for BeyondDictionary remains in private repositories.*
+> A suite of **100+ interactive HTML workbenches** for learning, reasoning, and creativity — part of the **LLOS.AI × BeyondDictionary** research initiative. Each demo blends empathy, pedagogy, and interactivity to reimagine software content as a living system.
 
-#### 🧠 A. Content – Words, Knowledge, & Learning Systems
+#### 🌍 GitHub Learning Series — Teaching 100 Million Future Makers
 
-* **BeyondDictionary – Advanced Word Cards:** 400k+ English/Hindi entries with 100+ micro-services per word. <br/>[*Live Site ➔*](https://beyonddictionary.com/dictionary/advance/Standard) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/beyond-dictionary-case-study.md)
+| Demo                                                                                                                | Description                                                |
+| :------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------- |
+| [Beginner Tutorial Index](https://pawan-nayar.github.io/software-content-demos/github/)                             | GitHub as a universal collaborative language for creators. |
+| [Pull vs Fetch Visualizer](https://pawan-nayar.github.io/software-content-demos/github/pull_vs_fetch.html)          | Explains synchronization through animation and metaphor.   |
+| [Merge vs Rebase Interactive](https://pawan-nayar.github.io/software-content-demos/github/rebase_vs_merge.html)     | Turns confusion into conceptual clarity via interactivity. |
+| [Branching Workflow Quiz](https://pawan-nayar.github.io/software-content-demos/github/branching_workflow_quiz.html) | Playful reinforcement of collaboration patterns.           |
 
-* **BeyondDictionary – Quiz Engine:** Prototype for a platform scaling to 10M+ interactive questions. <br/>[*Live Demo ➔*](https://beyonddictionary.com/cbsequiz) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/beyond_dictionary_quiz_learn_apply_framework.md)
+#### 🤖 Claude Ecosystem — AI Reasoning & Applied Mastery
 
-* **CBSE English Learning Universe:** A large-scale application of multimodal, bilingual learning principles. <br/>[*Live Site ➔*](https://beyonddictionary.com/cbse) | [*Case Study Repo ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/cbse_case_study.md)
+| Demo                                                                                                                                             | Description                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------- |
+| [Claude Console Interactive](https://pawan-nayar.github.io/software-content-demos/anthropic/claude-console-interactive.html)                     | Workbench for reflective AI interaction.                    |
+| [Financial Consultants Series](https://pawan-nayar.github.io/software-content-demos/anthropic/claude_code_for_financial_consultants_part_0.html) | Six-part applied learning series for finance professionals. |
+| [Medical Prompting Wizard](https://pawan-nayar.github.io/software-content-demos/anthropic/medical_prompting_wizard_deepthink_medicine.html)      | Empathy-first framework for ethical clinical AI use.        |
+| [DeepThink REPL Workflow](https://pawan-nayar.github.io/software-content-demos/anthropic/deepthink_repl_workflow.html)                           | Sandbox for introspection and metacognition.                |
 
-* **Interactive Chapter Tool – The Last Lesson:** Deep-dive into a single chapter with RTC, bilingual narration, and glossary cards.<br/>[*Live Demo ➔*](https://www.beyonddictionary.com/cbse/12/flamingo/the-last-lesson) 
+#### 🎨 AI Art Pedagogy — Visual Storytelling & Creative Play
 
-* **Interactive Commerce Glossary:** A learning tool for core business and commerce principles. <br/>[*Live Demo ➔*](https://pawan-nayar.github.io/beyond-dictionary/commerce-class-12-laws-glossary.html) | [*HTML ➔*](https://github.com/pawan-nayar/beyond-dictionary/blob/main/commerce-class-12-laws-glossary.html)
+| Demo                                                                                                                                | Description                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- |
+| [MidJourney Parameter Deck](https://pawan-nayar.github.io/software-content-demos/ai_art/midjourney_parameter_deck.html)             | Interactive exploration of image generation logic.  |
+| [Visual Storyteller’s Guide to AI](https://pawan-nayar.github.io/software-content-demos/ai_art/visual_storyteller_guide_to_ai.html) | Narrative-driven walkthrough of creative prompting. |
 
-* **DeepThink Reasoning Engine:** 20-scenario reasoning engine for CBSE Business Studies. <br/>[*Live Demo ➔*](https://pawan-nayar.github.io/beyond-dictionary/deepthink-reasoning-engine-business-studies-class11-12.html)
-  
-* **Algorithm & Pseudocode Explorer:** Interactive tool for Computer Science problem-solving concepts.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/beyond-dictionary/algorithm-pseudocode-explorer.html)
+#### ☁️ Salesforce Service Cloud & API Learning
 
-#### 📈 B. Marketing – Expression, SEO, & Creativity
+| Demo                                                                                                  | Description                                    |
+| :---------------------------------------------------------------------------------------------------- | :--------------------------------------------- |
+| [Service Cloud Series (5 Parts)](https://pawan-nayar.github.io/software-content-demos/salesforce/)    | Hands-on onboarding to enterprise automation.  |
+| [API Simulation Suite](https://pawan-nayar.github.io/software-content-demos/salesforce/api_demo.html) | Live GET/POST/PATCH/DELETE workflow simulator. |
 
-* **FindYourExpression™ Engine:** Prototype of the micro-content generator for short expressions.<br/>[*Live Demo ➔*](Coming Soon) 
+#### 🐍 Python Learning Playground — Applied Pedagogy for All
 
-* **Fashion Word Explorer:** Explore the language of fashion. Hover over the silhouette to understand fashion and emoji semantics.<br/>
-[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/fashion-word-explorer.html) 
+| Demo                                                                                                     | Description                                            |
+| :------------------------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| [Concept Explainers & Best Practices](https://pawan-nayar.github.io/software-content-demos/python/)      | Interactive tutorials bridging theory and application. |
+| [Applied Automation Demo](https://pawan-nayar.github.io/software-content-demos/python/applied_demo.html) | Real-world automation visualized intuitively.          |
 
-* **Kids Visual Dictionary:** Multimodal, multilingual, interactive experience for early learners (Ages 2-5).<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/kids_dictionary_animal_words.html) 
+#### 🧾 Adobe Acrobat Masterclass Series
 
-* **Interactive Article – Money Talks:** Deep-dive on global proverbs with interactive quizzes, polls, and carousels.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/proverb_article_money_talks.html) 
+| Demo                                                                                                                 | Description                                     |
+| :------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------- |
+| [The Ultimate Guide to Combining PDFs (4-Part)](https://pawan-nayar.github.io/software-content-demos/adobe-acrobat/) | Transforming documentation into guided mastery. |
 
-* **Interactive Article – Food & Culture:** Exploration of food history and sensory storytelling.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/article_food_croissant.html) 
+#### 🛠 Best Practices Shelf — The Craft Behind the System
 
-* **Reflective Article – SEO & Strategy:** Reframing optimization through layered, reflective thinking.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/deepthink_for_seo.html)  
+| Demo                                                                                                     | Description                                                        |
+| :------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
+| [Design & Pedagogy Patterns Index](https://pawan-nayar.github.io/software-content-demos/best-practices/) | Mobile-first, accessible, reusable blueprints powering every demo. |
 
-* **Management Article – Courage in Decision Making:** Part of the 500 Series, showing how bravery and responsibility drive authentic leadership.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/expression-and-creativity/deep_concept_for_management_courage_in_decision_making.html)  
+> *Together, these 16 demos form the **Software Content Operating System** — unifying documentation, design, and pedagogy into one reflective, generative ecosystem.*
 
-#### 🎮 C. Experience – Games, Interactivity, & Play
+---
 
-* **Lightweight Quiz Prototype:** A mobile-first quiz interface with multiple interaction types.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/light_quiz_medium.html)
+## 📂 Showcase Projects — Evidence of the Vision in Action
 
-* **BODMAS Animated Trainer:** Visual math trainer with bilingual narration and multiple solution paths.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/bodmas_trainer.html)
+### 🧠 A. Content – Words, Knowledge, & Learning Systems
 
-* **Little Math Explorer (Ages 4-7):** Story-driven math learning with animations and guided steps.<br/>\[*Live Demo ➔*]\(Coming Soon)
+* **BeyondDictionary – Word Cards, Quizzes & CBSE Systems**
+* **Interactive Chapter Tool – The Last Lesson**
+* **Commerce Glossary & DeepThink Reasoning Engine**
+* **Algorithm & Pseudocode Explorer**
+* **Early Education Microsystem** — ages 2–5 foundation learning
+* **Word Relationship Galaxy** — synonym/emoji visualization
+* **Go2Words™ Prototype** — image–word learning experiment
 
-* **Coordinate Geometry Explainer:** Interactive plotting canvas with glossary and bilingual toggle.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/math_concept_article_coordinate_geometry.html)
+### 📈 B. Marketing – Expression, SEO, & Creativity
 
-* **Toddler Counting Simulator (Ages 3-5):** Virtual counting tool with ten-frame and place-value play.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/counting_more_less_basic_math_for_age_3_to_5.html)
+* **FindYourExpression™ Engine** — live micro-expression generator
+* **Fashion Word Explorer** — semantic fashion lexicon
+* **Kids Visual Dictionary** — multimodal brand empathy
+* **Interactive Articles:** *Money Talks*, *Food & Culture*, *SEO Reflection*
+* **Courage in Decision Making (Management 500 Series)**
+* **DeepThink for Creative Strategy** — reflective SEO storytelling
 
-* **Emoji Jumble Game:** Emoji-based puzzle game blending wordplay and visuals.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/emoji_jumble_game.html)
+### 🎮 C. Experience – Games, Interactivity, & Play
 
-* **Brilliant Bowl (Synonyms & Antonyms):** Immersive “fill & drain” game exploring word meaning.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/bowl_fill_synonymn_antonymn.html)
+* **Lightweight Quiz Prototype**
+* **BODMAS Animated Trainer**
+* **Toddler Counting Simulator**
+* **Emoji Jumble Game & Brilliant Bowl**
+* **Crakk Misspelling Explorer & Interactive Piano**
+* **Dynamic Crossword Engine** — now live
+* **Newton’s Laws Free Body Calculator**
+* **Polysemous Words Explorer**
+* **Foreground–Background UI Trainer**
 
-* **Crakk Misspelling Explorer:** Interactive spelling-error trainer and learning game.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/crakk_misspelling.html)
+### 💻 D. Technology – AI, APIs, & Infrastructure
 
-* **Interactive Piano Simulator:** Playable JS-based piano for music and creativity learning.<br/>[*Live Demo ➔*](https://pawan-nayar.github.io/experience-playground/piano_simulator.html)
-
-* **Dynamic Crossword Engine:** Multi-subject crossword engine with dynamic clue previews.<br/>\[*Live Demo ➔*]\(Coming Soon)
-
-
-#### 💻 D. Technology – AI, APIs, & Infrastructure
-
-* **Word Relationship Galaxy:** D3.js visualization of synonyms, antonyms, hashtags, and emojis.<br/>[*Live Demo ➔*](Coming Soon)
-
-* **Salesforce API Explorer:** Hands-on simulation of GET/POST/PATCH/DELETE workflows.<br/>
-
-* **Claude Console Interactive:** Workbench-style interactive console for AI model interaction.<br/>[*Live Demo ➔*](Coming Soon)
-
-* **AI in Medicine Clinical Workbench:** Interactive demo of LLM-assisted clinical workflows.<br/>
+* **Salesforce API Explorer & Service Cloud Series**
+* **Claude Console Interactive**
+* **Python Learning Playground**
+* **Word Relationship Galaxy**
+* **AI in Medicine Clinical Workbench**
 
 ---
 
 ### 📚 Publications
 
 * **Ultimate Midjourney for Creative Professionals** (Orange Education, 2025)
-
-    > A richly illustrated guide to AI-powered visual storytelling with 700+ images and 55+ projects.
-    > <br>[*See on Amazon ➔*](https://www.amazon.in/Ultimate-Midjourney-Creative-Professionals-Storytelling/dp/9348107046)
-
 * **Secrets of the Buried Self: Echoes Across Time** (2023)
-
-    > A novel blending 3,100 years of mystery with AI-assisted narrative design.
-    > <br>[*See on Amazon ➔*](Secrets of the Buried Self: Echoes Across Time)
-
-* **IEEE / STC Publications** 
-
-    > Improving Software Documentation Using Instructional Design. Available on request.
+* **IEEE / STC Publications** — on instructional design and software documentation.
 
 ---
 
 ### 💎 Proprietary Research & Future Work
 
-* **Go2Words™:** A word-image pairing engine born from an Instagram experiment with 1B+ impressions.
-
-* **FindYourExpression™:** A universal short-expression engine (idioms, proverbs, slogans, quotes, captions).
-
-* **Wisdom Graph:** A semantic-emotional lattice connecting 5M+ words across 20+ dimensions, 50+ JSON datasets (~5GB) and growug.
-
-* **LLOS.AI (2026):** The Lifelong Learning Operating System, integrating all proprietary systems, ready for a billion quizzes, a million learning path.
+* **Go2Words™** — word–image pairing engine born from a 1B+ impression experiment.
+* **FindYourExpression™** — universal short-expression engine.
+* **Wisdom Graph** — semantic-emotional lattice (5M+ words, 50+ datasets).
+* **LLOS.AI (2026)** — The Lifelong Learning Operating System.
 
 ---
 
 ### 🛠️ Services & Areas of Research
 
-* **AI-First Content Systems:** Architecting prompt systems, knowledge graphs, and editorial pipelines.
+* **AI-First Content Systems** — prompt engineering, knowledge graphs, editorial pipelines.
+* **Content Reengineering at Scale** — transforming content + marketing + design teams.
+* **Generative Creativity Workshops** — storytelling with Midjourney + GPT.
+* **Learning Gamification** — developing interactive quiz and game mechanics for education.
 
-* **Content reengineerng at scale:** Leapfrogging content, experience, marketing teams, and ad agencies into hyperscale content world.
+---
 
-* * **Generative Creativity Workshops:** Leading training on storytelling with Midjourney + GPT, including team playbooks for different professions and cross-geo/cross-BU/cross-industry business needs.
+### 🌐 Ecosystem Map
 
-* **Learning Gamification:** Actively developing and prototyping novel quiz/game mechanics for knowledge recall and user engagement.
+```
+/pawan-nayar (this portfolio root)
+│
+├── beyond-dictionary/
+├── experience-playground/
+├── early-education/
+├── software-content-demos/
+├── expression-and-creativity/
+└── LLOS.AI × BeyondDictionary/
+```
+
+> *All repositories are living prototypes under **LLOS.AI**, unifying language, software, and creativity into one lifelong learning system.*

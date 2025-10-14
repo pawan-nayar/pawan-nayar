@@ -49,7 +49,6 @@ My work follows the **CMET** framework: a weave where **C**ontent, **M**arketing
 | Demo                                                                                                                | Description                                                |
 | :------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------- |
 | [Beginner Tutorial Index](https://pawan-nayar.github.io/software-content-demos/github/)                             | GitHub as a universal collaborative language for creators. |
-| [Merge vs Rebase Interactive](https://pawan-nayar.github.io/software-content-demos/github/github-confusion-understanding-rebase-vs-merge.html)     | Turns confusion into conceptual clarity via interactivity. |
 | [Build Strategic Mastery with Git](https://pawan-nayar.github.io/software-content-demos/github/git-deepthink-player-professional-scenarios.html) | Playful reinforcement of collaboration patterns.           |
 
 #### 🤖 Claude Ecosystem — AI Reasoning & Applied Mastery

@@ -176,3 +176,11 @@ My work follows the **CMET** framework: a weave where **C**ontent, **M**arketing
 ```
 
 > *All repositories are living prototypes under **LLOS.AI**, unifying language, software, and creativity into one lifelong learning system.*
+
+---
+
+### ⚠️ Copyright & Usage Notice
+
+All demos, prototypes, articles, and interactive assets showcased here are **Copyright © Cretorial Media Services, 2020–2025**.
+They represent original research, design, and system development work by **Pawan Nayar** and the Cretorial team.
+These assets are shared solely as **discussion starters with leadership teams**, partners, and collaborators — not for redistribution, replication, or public reuse without explicit written consent.

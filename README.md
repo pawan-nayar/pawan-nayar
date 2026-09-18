@@ -52,7 +52,7 @@ chip-design documentation at Cadence, then Creative Cloud content and community 
 `MIT Sloan · 2 books`
 
 **The full portfolio, with the live tools and the drawings in motion:
-[llos.ai/docs/pawan_nayar.html](https://llos.ai/docs/pawan_nayar.html)**
+[llos.ai/team/founder/pawan](https://llos.ai/team/founder/pawan/)**
 
 ---
 
@@ -145,9 +145,9 @@ cultures read it, its opposites, its history, and the questions that test it. Se
 
 > We built the production systems before creating the platform's content.
 
-This section features handpicked examples from across the LLOS.ai platform — tools, hubs, libraries,
-series, and games — organized into seven groups: Learn, Words, Write, Design, Career, Life, and
-Play. Each asset is fully functional and accessible directly from the site. Most open instantly with
+This section features 79 handpicked examples from across the LLOS.ai platform — tools, hubs,
+libraries, series, and games — organized into seven groups: Learn, Words, Write, Design, Career,
+Life, and Play. Each asset is fully functional and accessible directly from the site. Most open instantly with
 a click. A few, marked **SIGN-IN**, require a free account only because they generate and save work
 on the server for you. All others are available without registration.
 
@@ -350,7 +350,7 @@ goes further down than any card has room to say.
 - **[Neon Mazes](https://llos.ai/mazes/)** · GAMES · 20 hand-drawn  
   Recursive-backtracking generation, eight solving algorithms, each with its own mascot.
 
-These are a selection. The full site runs past **1.2 million pages**, reachable from
+These 79 are a selection. The full site runs past **1.2 million pages**, reachable from
 [the home navigation](https://llos.ai/home.php).
 
 ---

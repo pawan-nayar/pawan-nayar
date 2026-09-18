@@ -396,7 +396,7 @@ traits, clustered into 52 dimensions in nine groups. Trace answers a different q
 your line and it finds where that thought has been said before, drawing on 150,644 passages from
 16,680 named sources across traditions, with chapter and verse.
 
-**04 · Expressive Shapes and Interactive SVG Framework**
+**04 · Expressive Drawings and Interactive SVG Framework**
 A visual system where a shape, an SVG (dual-tone or multi-coloured, with or without motion), is
 chosen because it carries an idea, not because it decorates the space. The library covers 57,311
 words and searches by meaning rather than filename: 37,233 of these shapes are qualities and states,
